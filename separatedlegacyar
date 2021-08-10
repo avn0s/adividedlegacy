@@ -1,0 +1,96 @@
+{
+  "title": "The Legacy Separated in Two",
+  "description": "إطلاق نارٍ مفاجئٍ أدى إلى سلب حياة رجلٍ دائماً ما كان تشينغ شينغ يفكر به لكنه لم يتحدث عنه مطلقاً، مخلفاً وراءه شابان، وي تيان هينغ ووي تيان تشو، ومع مرور الوقت، يُدرك تشينغ شينغ أن لدى الشابان أفكاراً غريبةً عنه...",
+  "artist": "白夜漫画工作室",
+  "author": "白夜漫画工作室",
+  "cover": "https://imgur.com/a/Rx2RI1U",
+  "chapters": {
+    "10": {
+      "title": "مُت!!",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/gRB2zna/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "إنه ملكِي",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/uc68iTV/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "دائماً ما كان حساساً",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/wXfl5De/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "أيمكنني تدليكه من أجلك؟",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/Gjgmaq7/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "لا تقل أمراً كهذا مجدداً!",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/d04SBxq/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "كالمتزوجين حديثاً",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/3wV3nqf/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "أتوسل إليك",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/ZFvVqvC/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "لا مزيد من الألم والبهجة",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/ONAsH20/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "الوريث",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/VrDiCsM/"
+      },
+      "last_updated": "1616368746"
+    },
+    "1": {
+      "title": "لم الشمل في يومٍ ممطر",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/tPzvhtw/"
+      },
+      "last_updated": "1616368746"
+       "0": {
+      "title": "المقدمة",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/yCU7FVH/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
