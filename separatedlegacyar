@@ -5,8 +5,16 @@
   "author": "白夜漫画工作室",
   "cover": "https://imgur.com/aSSpIml.png",
   "chapters": {
+"22": {
+      "title": "غادر قبل أن أؤذيك",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/OqOxJIi/"
+      },
+      "last_updated": "1629893761"
+    },
   "21": {
-      "title": "مالذي بفعله!؟",
+      "title": "مالذي يفعله!؟",
       "volume": "1",
       "groups": {
         "Hansoo": "/proxy/api/imgur/chapter/J4d78BI/"
