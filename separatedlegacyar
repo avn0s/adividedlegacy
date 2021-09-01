@@ -5,6 +5,14 @@
   "author": "白夜漫画工作室",
   "cover": "https://imgur.com/aSSpIml.png",
   "chapters": {
+  "23": {
+      "title": "الجدران ما بين الأخوين",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/Z9oXo59/"
+      },
+      "last_updated": "1630529912"
+    },
 "22": {
       "title": "غادر قبل أن أؤذيك",
       "volume": "1",
