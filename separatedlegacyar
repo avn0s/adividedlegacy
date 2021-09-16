@@ -5,6 +5,14 @@
   "author": "白夜漫画工作室",
   "cover": "https://imgur.com/aSSpIml.png",
   "chapters": {
+  "24": {
+      "title": "اللاوعي",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/D1yY8xX/"
+      },
+      "last_updated": "1631825026"
+    },
   "23": {
       "title": "الجدران ما بين الأخوين",
       "volume": "1",
